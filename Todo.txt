@@ -1,0 +1,3 @@
+Clean House,low
+Pay Bills,high
+wash the dog,low
